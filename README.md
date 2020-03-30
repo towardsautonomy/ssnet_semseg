@@ -1,4 +1,4 @@
-# SSNet Semantic Segmentation
+# SSNet for Semantic Segmentation
 
 ![](img/semseg.gif)
 
